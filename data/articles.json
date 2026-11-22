@@ -1,0 +1,313 @@
+[
+  {
+    "slug": "muse-ai-explained-meta-s-personal-agent-that-does-the-work",
+    "title": "Muse AI Explained: Meta's Personal Agent That Does the Work",
+    "description": "Meta's personal agent doesn't just chat — it sends emails, books tables, calls businesses and finishes multi-step tasks. What it costs, where it works.",
+    "category": "Review",
+    "readMinutes": 7,
+    "datePublished": "2026-11-17",
+    "dateUpdated": "2026-11-17",
+    "bodyHtml": "<p>Most AI assistants answer questions. Muse, Meta's personal AI agent, is built to do the work after the answer — send the email, book the table, fill in the form, and keep working on long tasks while you get on with your day. It launched on 8 September 2026, and it is the most ambitious attempt yet to turn a chatbot into something closer to a chief of staff.</p><h4>What makes Muse different</h4><p>A normal chatbot forgets you between chats and waits for your next message. Muse runs on its own dedicated cloud computer that stays with you between conversations. It connects to your email and calendar, remembers your goals, and can keep a multi-step task going in the background — researching options, drafting replies, and checking back with you before anything irreversible happens. It can also build things for you: documents, spreadsheets, web pages and small apps, right inside the conversation.</p><h4>What it can actually do</h4><ul><li><b>Communication:</b> draft and send emails, summarise long threads, and follow up with people who have not replied.</li><li><b>Research and planning:</b> compare options and prices across the web, plan trips, and organise messy notes into clear lists.</li><li><b>Forms and bookings:</b> fill in web forms, book travel, and complete multi-step processes in the browser.</li><li><b>Calling businesses:</b> since 12 November 2026, paid subscribers in the US can ask Muse to phone a business — booking a table, scheduling an appointment, even waiting on hold.</li><li><b>Always-on help:</b> scheduled checks, reminders and watches that run while you are away, plus its own email address at muse.ai on paid plans.</li></ul><h4>Muse Spark vs Muse Wonder</h4><p>Muse runs on Meta's Muse model family. The free plan runs on <b>Muse Spark</b>, which handles everyday chat and tasks. Paid plans run on <b>Muse Wonder</b>, announced on 12 October 2026 as Meta's most capable model — built for long, multi-step agentic work such as planning a move, disputing a bill, or turning an idea into a business. If your work is mostly quick questions, Spark is enough; if you hand Muse whole projects, Wonder is the point of paying.</p><h4>Plans and pricing</h4><p>Muse is free to start, with a weekly usage limit. Paid plans, as listed on Meta's subscription page, start at <b>$20 a month (Power, 500 million tokens a week)</b> and go up to <b>$100 a month (Maximum, 3 billion tokens a week)</b>. Phone calling to businesses is a paid-plan feature in the US. Prices can vary by country, so confirm the current figures at muse.ai before subscribing.</p><h4>The catch: availability</h4><p>Muse is currently available only in the <b>US, Canada, Japan and Singapore</b> — most of the world, including Pakistan, India and the UK, cannot download it yet. It also asks for deep access to be useful: email, calendar, files and connected accounts. That is the trade at the heart of every personal agent — the more it can see, the more it can do — so check what you are comfortable connecting before you hand it the keys.</p><div class=\"verdict\"><b>Our verdict:</b> If you live in a supported country and want an assistant that finishes tasks instead of just answering, Muse is the most genuinely useful AI agent we have seen — and the free plan is the right way to test it. Try it free at <b>muse.ai</b>. Everyone else: watch this space, and use ChatGPT or Claude free in the meantime.</div>"
+  },
+  {
+    "slug": "chatgpt-vs-claude-vs-gemini-which-should-you-pay-for-in-2026",
+    "title": "ChatGPT vs Claude vs Gemini: Which Should You Pay For in 2026?",
+    "description": "Same prompts, same documents, same budget. Where each $20 plan wins — and where the free tiers are enough.",
+    "category": "Comparison",
+    "readMinutes": 9,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Three chatbots, three $20 plans, and one question everyone asks: which one deserves your money? We ran the same jobs through all three — drafting, summarising a long report, answering research questions, writing code and generating images. Here is where each one actually wins.</p><h4>Writing and documents</h4><p><b>Claude</b> produces the most natural long-form writing and handles very long documents with the fewest dropped details. ChatGPT is close and more playful with formats; Gemini is strong when the document already lives in Google Docs.</p><h4>Research and facts</h4><p>ChatGPT's deep research and Gemini's Google grounding both produce sourced reports. For quick cited answers, though, free Perplexity often beats all three — which is why we recommend pairing one paid chatbot with Perplexity free instead of paying for two chatbots.</p><h4>Coding</h4><p>Claude Pro includes <b>Claude Code</b>, an agent that edits whole projects — the single biggest paid-only advantage in this comparison. ChatGPT counters with strong code help and Codex access on Plus. Gemini is capable, but coders we hear from reach for it third.</p><h4>Images and extras</h4><p>ChatGPT has the most complete package: image generation and editing, voice, and custom GPTs. Gemini answers with Veo video generation through Flow and deep Gmail/Docs integration.</p><div class=\"verdict\"><b>Our verdict:</b> Pay for <b>ChatGPT Plus</b> if you want one tool for everything. Pay for <b>Claude Pro</b> if you write or code for a living. Pay for <b>Google AI Pro</b> if your workday runs on Gmail and Docs. Everyone else: the free plans plus Perplexity cover more than you think.</div>"
+  },
+  {
+    "slug": "10-free-ai-tools-that-are-actually-worth-your-time",
+    "title": "10 Free AI Tools That Are Actually Worth Your Time",
+    "description": "No trials that expire in a day, no credit card traps. Ten free tools worth keeping installed.",
+    "category": "Roundup",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>“Free” in AI often means a 3-day trial and a card form. Not here. Every tool on this list has a genuinely usable free plan — no card required to start.</p><ol><li><b>ChatGPT Free</b> — everyday chat, writing and image generation.</li><li><b>Claude Free</b> — long documents and careful writing.</li><li><b>Perplexity Free</b> — research answers with citations.</li><li><b>NotebookLM</b> — question your own PDFs and notes; audio overviews included.</li><li><b>Gemini Free</b> — Google's assistant with strong multimodal skills.</li><li><b>Canva Free</b> — designs, thumbnails and starter AI image tools.</li><li><b>GitHub Copilot Free</b> — real AI autocomplete in your editor.</li><li><b>Grammarly Free</b> — grammar and clarity checks everywhere you type.</li><li><b>Runway Free credits</b> — your first AI video generations.</li><li><b>ElevenLabs Free tier</b> — test natural AI voices for narration.</li></ol><h4>How to use this list</h4><p>Install three, not ten: one chatbot, one specialist for your main job, and Perplexity for facts. Live with them for two weeks. The tool you open every day is the one worth paying for — and our buying guide explains exactly when that upgrade makes sense.</p><div class=\"verdict\"><b>Bottom line:</b> A free stack of ChatGPT + Perplexity + one specialist covers students, job seekers and most small businesses completely.</div>"
+  },
+  {
+    "slug": "how-to-write-prompts-that-get-better-answers",
+    "title": "How to Write Prompts That Get Better Answers",
+    "description": "Role, audience, format, example: the four-part prompt formula, with before-and-after examples.",
+    "category": "Tutorial",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Most “AI gave me a bad answer” stories are really “I gave it a vague prompt” stories. The fix is a four-part formula you can use in any chatbot.</p><h4>The formula: Role + Audience + Format + Example</h4><ul><li><b>Role:</b> “Act as an experienced travel agent…” tells the model which expertise to use.</li><li><b>Audience:</b> “…planning for a family with two kids under 10…” kills generic advice.</li><li><b>Format:</b> “Give me a day-by-day table with costs…” makes the answer usable, not just readable.</li><li><b>Example:</b> paste one result you liked and say “match this style.” Nothing steers output faster.</li></ul><h4>Before and after</h4><p><b>Before:</b> “Write a product description for headphones.” <b>After:</b> “Act as a copywriter for a sports brand. Write a 60-word product description of noise-cancelling running headphones for marathon trainees. Use short punchy sentences, mention battery life and sweat resistance, and end with one question. Match the energy of this example: …” The second prompt does in one shot what the first needs five follow-ups to reach.</p><h4>Then iterate</h4><p>Treat the first answer as a draft: “Make it shorter”, “Give me three alternatives for the headline”, “What are you assuming that might be wrong?” Iteration is where the quality is.</p><div class=\"verdict\"><b>Try it now:</b> Take the last prompt you used, add the audience and the format, and compare the answers side by side.</div>"
+  },
+  {
+    "slug": "best-ai-tools-for-students-study-smarter-with-notebooklm",
+    "title": "Best AI Tools for Students: Study Smarter With NotebookLM",
+    "description": "Turn lectures and PDFs into Q&A, summaries and audio reviews — without letting AI do the learning for you.",
+    "category": "Students",
+    "readMinutes": 5,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>NotebookLM is the rare AI tool that makes you learn more, not less — because it only works with material you give it. Upload your lecture slides, textbook chapters and notes, and it becomes a tutor who has read exactly your course.</p><h4>Three study workflows that work</h4><ol><li><b>Ask your notes:</b> “Explain photosynthesis using only my Week 3 slides, then quiz me with five questions.” Answers cite the page they came from.</li><li><b>Audio revision:</b> Generate an audio overview of a topic and listen on the bus. Hearing two voices discuss your notes makes dry material stick.</li><li><b>Exam prep:</b> Ask for a one-page brief of definitions, then a timeline, then the three arguments your lecturer repeats most.</li></ol><h4>The honesty rule</h4><p>Use AI to understand, practise and organise — then write the assignment yourself, in your own words, and check your university's AI policy. Tools that “write your essay” risk your degree; tools that quiz you build it.</p><div class=\"verdict\"><b>Student stack:</b> NotebookLM for your materials, Perplexity for cited background research, ChatGPT or Claude free for explanations when you are stuck.</div>"
+  },
+  {
+    "slug": "ai-video-in-2026-sora-veo-and-runway-compared",
+    "title": "AI Video in 2026: Sora, Veo and Runway Compared",
+    "description": "Clip quality, control, price per video and watermarks — what creators need to know before subscribing.",
+    "category": "Video",
+    "readMinutes": 8,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Text-to-video is the fastest-moving corner of AI. Three names dominate creator conversations right now: OpenAI's Sora, Google's Veo (inside the Flow filmmaking tool, bundled with Google AI plans) and Runway, the independent editor-first platform.</p><h4>Where each wins</h4><ul><li><b>Sora</b> — cinematic, imaginative clips and strong scene coherence; access runs through ChatGPT plans.</li><li><b>Veo / Flow</b> — excellent motion and prompt following, and the best value route in, because Google AI Pro ($19.99/month) bundles it with Gemini.</li><li><b>Runway</b> — the editor's choice: generation plus motion control, inpainting, green screen and a real timeline for finishing clips.</li></ul><h4>What nobody tells beginners</h4><p>Budget for retries: even good creators generate three to five clips per keeper. Keep prompts visual and simple — one subject, one action, one camera move. And check each platform's watermark and commercial-use terms before publishing client work.</p><div class=\"verdict\"><b>Our take:</b> Start free (Runway credits, Gemini trials). Your first paid step should be Google AI Pro for Veo value, or Runway if you edit seriously.</div>"
+  },
+  {
+    "slug": "claude-code-vs-github-copilot-the-honest-coding-guide",
+    "title": "Claude Code vs GitHub Copilot: The Honest Coding Guide",
+    "description": "Terminal agent vs editor autocomplete. Which style fits your workflow, and what each really costs.",
+    "category": "Coding",
+    "readMinutes": 10,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>These two are not really rivals — they work at different levels of your day. Copilot lives in your editor and completes what you are typing. Claude Code is an agent: give it a task and it reads the project, edits many files, runs tests and reports back.</p><h4>Choose Copilot if…</h4><p>You write code all day and want speed without changing how you work: completions, quick chat, small multi-file edits inside VS Code or your IDE. Its free tier is the easiest on-ramp in coding AI.</p><h4>Choose Claude Code if…</h4><p>Your tasks sound like tickets, not lines: “add login with email”, “fix the failing tests”, “refactor this module”. It is included with Claude Pro ($20/month) and Max — so one subscription covers both your chatbot and your coding agent.</p><h4>Can you run both?</h4><p>Many professionals do: Copilot for flow, Claude Code for heavy lifting. If budget forces one choice, match it to your bottleneck — typing speed (Copilot) or whole-task throughput (Claude Code).</p><div class=\"verdict\"><b>Beginner path:</b> Copilot Free this week; Claude Pro with Claude Code when you start building complete projects.</div>"
+  },
+  {
+    "slug": "how-small-businesses-can-make-money-with-ai-tools",
+    "title": "How Small Businesses Can Make Money With AI Tools",
+    "description": "Five services local businesses pay for today, the tool stack behind each, and realistic pricing.",
+    "category": "Business",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Local businesses do not buy “AI”. They buy finished work: posts that bring customers, descriptions that sell products, replies that save an hour a day. Here are the five services readers actually sell, with the stack behind each.</p><ol><li><b>Social content packs</b> — a month of posts and captions for cafes, salons and shops. Stack: ChatGPT or Claude + Canva AI. Sold as a monthly retainer.</li><li><b>Product descriptions</b> — rewrite a whole catalogue in a weekend. Stack: Claude for tone, Grammarly for polish.</li><li><b>Thumbnail & ad design</b> — creators pay per thumbnail that lifts clicks. Stack: Canva AI + an image generator.</li><li><b>Short video packages</b> — AI voiceover + generated b-roll for businesses with no camera crew. Stack: Runway or Veo + ElevenLabs.</li><li><b>Review & email replies</b> — set up drafted replies the owner approves in minutes. Stack: any $20 chatbot plan.</li></ol><h4>Pricing honestly</h4><p>Charge for the result and your verification time, not per “AI generation”. One $20 tool plan typically supports several small clients — which is exactly why the one-plan stack in our guide is the business model, not just a saving.</p><div class=\"verdict\"><b>Golden rule:</b> AI drafts, you verify and finish. The moment quality slips, so does the retainer.</div>"
+  },
+  {
+    "slug": "best-ai-image-generators-for-thumbnails-and-social-posts",
+    "title": "Best AI Image Generators for Thumbnails and Social Posts",
+    "description": "Text that renders correctly, faces that stay consistent, and the free options that beat paid ones.",
+    "category": "Images",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>A thumbnail has one job: earn the click in half a second. That makes its requirements specific — bold composition, correct text, and a face or object that reads at postage-stamp size.</p><h4>The contenders</h4><ul><li><b>ChatGPT image generation</b> — the best text rendering in images and easy edits (“make the background brighter”) in plain words.</li><li><b>Gemini image generation</b> — fast, strong edits and consistent characters across a series.</li><li><b>Midjourney</b> — the most striking art and photography styles, but weaker text-in-image and no free plan.</li><li><b>Canva AI</b> — generation inside the design tool, so the image becomes a finished, on-brand thumbnail in one place.</li></ul><h4>A workflow that works</h4><p>Generate the hero image in ChatGPT or Gemini, drop it into Canva, add your title text there (crisper than AI-rendered text), apply your brand colours, export at platform size. Test two versions whenever the platform allows it.</p><div class=\"verdict\"><b>Our pick:</b> ChatGPT or Gemini for the image, Canva for the finish. Midjourney when the visual itself is the product.</div>"
+  },
+  {
+    "slug": "perplexity-vs-google-search-when-to-use-each",
+    "title": "Perplexity vs Google Search: When to Use Each",
+    "description": "Cited answers are brilliant for research and risky for breaking news. A simple rule for choosing.",
+    "category": "Research",
+    "readMinutes": 5,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Perplexity answers questions with cited summaries. Google gives you the web itself. Both are “search” — but they fail in opposite ways, so the skill is knowing which job you are doing.</p><h4>Use Perplexity when…</h4><ul><li>You are learning a topic and want the shape of it fast, with sources to open.</li><li>You need a comparison or a how-it-works answer from several pages at once.</li><li>You will actually click the citations — they are the product.</li></ul><h4>Use Google when…</h4><ul><li>It is breaking news, prices, opening hours or anything that changed this week.</li><li>You need one specific site, document or official page.</li><li>The answer matters enough to read the original source yourself.</li></ul><h4>The risk to respect</h4><p>AI summaries can cite a page and still misstate it. For anything you will publish, buy or act on, open at least one source. That ten-second habit is the whole difference between fast research and fast mistakes.</p><div class=\"verdict\"><b>Simple rule:</b> Perplexity to understand, Google to verify.</div>"
+  },
+  {
+    "slug": "github-copilot-for-beginners-your-first-week-with-an-ai-pair-programmer",
+    "title": "GitHub Copilot for Beginners: Your First Week With an AI Pair Programmer",
+    "description": "Install it Monday, ship better code by Friday. A day-by-day plan for your first week with in-editor AI.",
+    "category": "Coding",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Copilot is the gentlest way into AI coding: it sits inside your editor and suggests code as you type. This five-day plan turns the novelty into a habit — and teaches you where to trust it and where not to.</p><h4>The first week</h4><ol><li><b>Day 1:</b> Install it in VS Code (the free tier is enough) and just code normally. Tab accepts a suggestion, Esc rejects it. Notice it is best at boilerplate and repetitive patterns.</li><li><b>Day 2:</b> Use Copilot Chat to explain code you do not understand — select a function and ask what it does, line by line.</li><li><b>Day 3:</b> Write a comment describing a small function, then let Copilot draft it. Read every line before accepting.</li><li><b>Day 4:</b> Ask it to write tests for code you wrote yourself. Tests are low-risk and reveal how it reasons.</li><li><b>Day 5:</b> Review the week honestly: where did it save real time, and where did its confident mistakes cost you?</li></ol><h4>The one habit that matters</h4><p>Treat every suggestion like code from a fast, junior colleague: often right, sometimes subtly wrong, always your responsibility. Run it, test it, understand it — in that order, every time.</p><div class=\"verdict\"><b>Bottom line:</b> Copilot Free for a week costs nothing and answers the only question that matters — does AI speed up <i>your</i> coding? Then read our Claude Code vs Copilot guide for the next step.</div>",
+    "metaTitle": "GitHub Copilot for Beginners: Your First Week"
+  },
+  {
+    "slug": "how-to-make-ai-videos-with-google-flow-and-veo",
+    "title": "How to Make AI Videos With Google Flow and Veo",
+    "description": "From a blank prompt box to a finished clip: the exact steps, plus the prompt habits that save retries.",
+    "category": "Tutorial",
+    "readMinutes": 8,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Flow is Google's AI filmmaking tool, powered by its Veo video model, and it is bundled with Google AI plans — which makes it the best-value route into quality AI video right now. Here is the complete beginner workflow.</p><h4>Step by step</h4><ol><li><b>Open Flow</b> with your Google account and start a new project.</li><li><b>Write a shot, not a story:</b> one subject, one action, one camera move. “A red delivery bike crosses a rainy Tokyo street at dusk, camera tracking alongside” beats a paragraph of plot.</li><li><b>Generate and judge fast:</b> you will get several seconds of video. Keep clips where the motion is clean, even if the framing is imperfect.</li><li><b>Extend or reframe:</b> continue a good clip rather than regenerating from zero — continuity is what makes AI video look professional.</li><li><b>Export and finish</b> in your normal editor with music, captions and your own cuts.</li></ol><h4>Habits that save credits</h4><ul><li>One action per clip — two actions means two ways to fail.</li><li>Name the camera: “slow push-in”, “static wide shot”, “handheld follow”.</li><li>Budget three to five generations per keeper clip. Everyone does; the pros just plan for it.</li></ul><div class=\"verdict\"><b>Our take:</b> If you already pay for Google AI Pro ($19.99/month) for Gemini, Flow and Veo are effectively included — try video there before buying anything else.</div>"
+  },
+  {
+    "slug": "midjourney-for-beginners-your-first-10-images-done-right",
+    "title": "Midjourney for Beginners: Your First 10 Images, Done Right",
+    "description": "The quality benchmark has a learning curve. Skip the frustrating part with this first-session checklist.",
+    "category": "Images",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Midjourney makes the most striking AI images — and frustrates beginners more than any other tool on this list, because it rewards a different prompting style. This checklist gets your first session producing keepers.</p><h4>Prompt like a photographer, not a poet</h4><ul><li><b>Subject first:</b> “elderly lighthouse keeper, oilskin coat” before any style words.</li><li><b>Add light and lens:</b> “golden hour, shot on 35mm” changes results more than adjectives like “beautiful”.</li><li><b>Set the shape:</b> use a wide aspect ratio for banners and scenes, portrait for phone wallpapers and covers.</li><li><b>Generate four, then vary:</b> pick the strongest of the grid and use variations and upscales on that one — do not restart from scratch each time.</li></ul><h4>What beginners get wrong</h4><p>Asking for text inside the image (Midjourney is the weakest of the big tools at lettering — add text later in Canva), cramming five subjects into one frame, and expecting a specific real person's likeness. Faces and hands still need a quick zoom-check before you publish.</p><div class=\"verdict\"><b>Bottom line:</b> Midjourney is paid-only, so earn the subscription: master the free generators in ChatGPT, Gemini or Canva first, then upgrade when image quality itself is your bottleneck.</div>"
+  },
+  {
+    "slug": "elevenlabs-ai-voiceovers-that-actually-sound-human",
+    "title": "ElevenLabs: AI Voiceovers That Actually Sound Human",
+    "description": "Narration, ads and dubbing without a studio. What it does best, and the settings that make voices sound real.",
+    "category": "Audio",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>ElevenLabs is why so many videos you watched this week were narrated by a voice that never entered a studio. Its text-to-speech is the most natural available, across many languages — which makes it the default choice for narration, ads and faceless channels.</p><h4>What it does best</h4><ul><li><b>Narration:</b> YouTube scripts, explainers and audiobooks with believable pacing and emotion.</li><li><b>Voice cloning:</b> record a short sample of your own voice and narrate without re-recording — only ever clone your own voice, or one you have explicit permission to use.</li><li><b>Dubbing:</b> translate a video's speech into other languages while keeping a similar voice.</li></ul><h4>Settings that make it sound real</h4><p>Write for the ear: short sentences, commas where a human would breathe, and numbers written out (“twenty twenty-six”, not “2026”). Preview two or three voices per project instead of defaulting to the first, and generate paragraph by paragraph so one bad line does not cost you a whole chapter of credits.</p><div class=\"verdict\"><b>Our take:</b> Test scripts on the free tier first. If you publish weekly, a paid tier pays for itself the first time it replaces a recording session.</div>"
+  },
+  {
+    "slug": "grammarly-vs-chatgpt-which-one-fixes-your-writing-better",
+    "title": "Grammarly vs ChatGPT: Which One Fixes Your Writing Better?",
+    "description": "One edits everywhere you type, the other rewrites anything. They are not rivals — here is how to split the work.",
+    "category": "Comparison",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>People compare these two constantly, but they do different jobs. Grammarly is an editor that lives inside everything you type. ChatGPT is a writer you hand things to. Knowing which job you have saves you money.</p><h4>Grammarly wins when…</h4><ul><li>The text is already written and needs correctness: emails, applications, client messages.</li><li>You want fixes in place — in Gmail, Docs, social apps — without copying and pasting.</li><li>Consistency matters: spelling variant, tone and clarity across everything a team writes.</li></ul><h4>ChatGPT (or Claude) wins when…</h4><ul><li>The text does not exist yet, or the structure is broken and needs a rewrite, not a polish.</li><li>You are stuck on a sentence and want five alternatives, a different tone, or a shorter version.</li><li>You need the “why” explained, not just the correction applied.</li></ul><h4>The sensible split</h4><p>Draft and restructure with a chatbot, then let Grammarly do the final pass in the app where the text will actually be sent. One honest caution from our review: accept Grammarly's grammar, question its style — applied blindly, it can sand your voice flat.</p><div class=\"verdict\"><b>Bottom line:</b> Grammarly Free plus a free chatbot covers most people. Pay for Grammarly only if you write all day, every day, in public.</div>"
+  },
+  {
+    "slug": "ai-tools-for-freelancers-the-stack-that-wins-clients",
+    "title": "AI Tools for Freelancers: The Stack That Wins Clients",
+    "description": "The exact tool combinations freelancers use to deliver faster, look professional and keep more of each fee.",
+    "category": "Business",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Clients do not pay freelancers for tools — they pay for speed, polish and reliability. The freelancers winning work with AI share the same pattern: one chatbot plan, a few free specialists, and a portfolio that proves the output.</p><h4>The stack, by trade</h4><ul><li><b>Writers:</b> Claude Pro for drafts, Grammarly for the final pass, Perplexity for cited research.</li><li><b>Designers:</b> Canva AI for production speed, Midjourney or ChatGPT images for original visuals.</li><li><b>Video freelancers:</b> Runway or Flow/Veo for generated shots, ElevenLabs for voiceover, Canva for packaging.</li><li><b>Developers:</b> Claude Pro with Claude Code, or Copilot if the work is inside an existing editor all day.</li></ul><h4>Rules that keep clients</h4><ol><li><b>Sell outcomes, not process:</b> quote for the delivered post, page or video — never “AI-generated content”.</li><li><b>Verify everything:</b> one factual error in client work costs more than every subscription you own.</li><li><b>Be straight when asked:</b> many clients are fine with AI-assisted work; none are fine with being surprised by it.</li><li><b>Keep one plan:</b> the one-plan stack from our budget guide is the profit margin — three overlapping subscriptions eat it.</li></ol><div class=\"verdict\"><b>Bottom line:</b> Your edge is not the tool, it is the finished, checked, on-brand result delivered faster than the freelancer without AI.</div>"
+  },
+  {
+    "slug": "claude-projects-explained-organise-long-work-like-a-pro",
+    "title": "Claude Projects Explained: Organise Long Work Like a Pro",
+    "description": "Stop re-uploading the same files. Projects keep your documents, instructions and chats in one place.",
+    "category": "Tutorial",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>If you use Claude for anything longer than a single chat — a book, a client, a course, a business — you are probably re-uploading the same files and re-explaining the same context every session. Projects exist to end exactly that.</p><h4>How Projects work</h4><ol><li><b>Create one project per long-running job:</b> “Website copy”, “Thesis”, “Client: bakery launch”.</li><li><b>Add the knowledge:</b> upload the briefs, style guides, past work and source documents once. Every chat in the project can use them.</li><li><b>Set project instructions:</b> tone, audience, format rules — written once, applied to every conversation inside.</li><li><b>Chat inside the project:</b> new threads start with your context already loaded, so answers stay consistent week after week.</li></ol><h4>Who gets the most from it</h4><p>Writers managing a manuscript, students working from a fixed reading list, freelancers juggling several clients, and small teams keeping one version of the truth. The pattern to copy: if you have explained something to your chatbot twice, it belongs in a project.</p><div class=\"verdict\"><b>Bottom line:</b> Projects turn Claude from a clever chat window into a workspace. It is the feature that most justifies Pro for people who write or research for a living.</div>"
+  },
+  {
+    "slug": "notebooklm-audio-overviews-turn-any-document-into-a-podcast",
+    "title": "NotebookLM Audio Overviews: Turn Any Document Into a Podcast",
+    "description": "Two AI voices discuss your notes so you can revise anywhere. Best uses — and the limits to respect.",
+    "category": "Students",
+    "readMinutes": 5,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>NotebookLM's party trick is genuinely useful: give it your documents and it generates an audio overview — two voices discussing your material in a natural, podcast-style conversation. For revision and busy schedules, it changes where studying can happen.</p><h4>Best uses</h4><ul><li><b>Revision on the move:</b> turn this week's lectures into a listen for the bus, the gym or the walk to class.</li><li><b>First pass over hard reading:</b> hear the shape of a dense paper discussed before you read it properly — the text makes far more sense afterwards.</li><li><b>Meeting and report prep:</b> upload the brief and arrive already knowing its arguments.</li></ul><h4>Limits to respect</h4><p>The audio only knows what you uploaded, and the voices can state a simplification with total confidence. Treat the overview as a map, not the territory: check anything you will quote or be examined on against the source text — NotebookLM shows citations for exactly that. And remember our honesty rule from the student guide: listening is superb preparation, but the learning still happens when you answer questions yourself.</p><div class=\"verdict\"><b>Bottom line:</b> Free, built into NotebookLM, and the easiest study upgrade of the year. Pair it with the 7-day revision plan in this series.</div>"
+  },
+  {
+    "slug": "sora-explained-what-openai-s-video-generator-can-and-can-t-do",
+    "title": "Sora Explained: What OpenAI's Video Generator Can and Can't Do",
+    "description": "Cinematic clips from a sentence — with honest caveats about retries, text and fine detail.",
+    "category": "Video",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Sora is the name that started the AI video race — OpenAI's text-to-video model, reached through ChatGPT plans. A year of viral clips later, here is the honest capability list behind the highlight reels.</p><h4>What it does well</h4><ul><li><b>Cinematic scenes:</b> rich lighting, believable materials and imaginative worlds from a single sentence.</li><li><b>Scene coherence:</b> subjects generally stay themselves across a clip better than earlier generators managed.</li><li><b>Creative starting points:</b> mood films, concept visualisations and b-roll that would be expensive to shoot.</li></ul><h4>What it still cannot do</h4><ul><li><b>Guaranteed first takes:</b> like every generator, expect several generations per keeper — budget time and credits accordingly.</li><li><b>Reliable text and fine detail:</b> signs, logos, hands and small print still wobble; add titles in your editor, not in the prompt.</li><li><b>Your exact product or person:</b> precise brand assets and real likenesses need care, permissions and usually a different workflow.</li></ul><h4>How to get the best from it</h4><p>Prompt one clear action, specify the camera, and keep clips short. Then finish like a filmmaker: cut, grade, caption and add sound in a real editor — or in Runway, if you want generation and editing in one place.</p><div class=\"verdict\"><b>Our take:</b> Sora is a remarkable creative engine, best tested inside a ChatGPT plan you already have before paying for any dedicated video tool.</div>"
+  },
+  {
+    "slug": "canva-ai-and-magic-studio-the-tools-inside-canva-worth-using",
+    "title": "Canva AI and Magic Studio: The Tools Inside Canva Worth Using",
+    "description": "Image generation, background removal, one-click resizing and more — which Magic Studio tools earn their keep.",
+    "category": "Design",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Canva quietly became an AI platform: Magic Studio bundles a shelf of AI tools inside the design app millions already use. Not all of them matter. These are the ones that earn their place in a normal workflow.</p><h4>Worth using</h4><ul><li><b>Image generation:</b> create the exact visual a post needs, already inside the design it belongs to.</li><li><b>Background remover:</b> one click turns a product photo into a clean cutout — the single biggest time-saver for shops and creators.</li><li><b>Magic Resize:</b> one design becomes a post, a story, a banner and a thumbnail at correct sizes.</li><li><b>Magic Write:</b> headline and caption drafts where you are already designing, in your brand voice if your kit is set up.</li><li><b>Brand kit application:</b> not glamorous, but the reason Canva output looks consistent while raw generator output does not.</li></ul><h4>Know the limits</h4><p>AI credits on the free plan run out fast if you generate daily, and Canva's generator is rarely the most artistic option — Midjourney wins on pure image quality. Canva wins on everything after the image exists.</p><div class=\"verdict\"><b>Bottom line:</b> If you publish on social media, Canva AI is the highest-value AI on this site per minute learned. Start free; Pro is for brand kits and heavy resizing.</div>"
+  },
+  {
+    "slug": "best-ai-tools-for-meetings-notes-summaries-and-follow-ups",
+    "title": "Best AI Tools for Meetings: Notes, Summaries and Follow-Ups",
+    "description": "Never write up a meeting again. What to look for in a meeting assistant — and the free route that works today.",
+    "category": "Productivity",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>The promise is simple: join the call, let AI record, transcribe and summarise it, and leave with action points instead of a notebook page you will never reread. Here is how to get that result — including the free route most people miss.</p><h4>Two ways to do it</h4><ul><li><b>Dedicated assistants</b> (tools such as Otter and Fireflies built their names here) join your calls automatically, transcribe who said what, and produce summaries and action lists. Best when meetings are your whole day.</li><li><b>The free route:</b> record with your meeting app's built-in feature, then paste the transcript into ChatGPT or Claude with one instruction: “Summarise decisions, list action points with owners, flag anything unresolved.” For occasional meetings, this is genuinely enough.</li></ul><h4>Check before you commit</h4><ul><li><b>Consent:</b> tell participants the call is recorded and summarised — in some places the law requires it, everywhere it is basic courtesy.</li><li><b>Accuracy:</b> names, numbers and accents still trip transcription; skim the summary before forwarding it.</li><li><b>Privacy:</b> meeting content is sensitive — read where transcripts are stored and how long they are kept.</li></ul><div class=\"verdict\"><b>Bottom line:</b> Start with the free transcript-plus-chatbot route this week. Buy a dedicated assistant only when you are in meetings daily.</div>"
+  },
+  {
+    "slug": "can-ai-build-a-real-app-an-honest-beginner-test",
+    "title": "Can AI Build a Real App? An Honest Beginner Test",
+    "description": "We describe what actually happens when a beginner builds with Copilot and Claude Code — wins, breakage and all.",
+    "category": "Coding",
+    "readMinutes": 8,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>“I built an app with AI and I can't code” is the claim of the year. The truth is more interesting: beginners really can ship working software with AI help — if they work the way this article describes, and not the way the viral posts pretend.</p><h4>What actually works</h4><ul><li><b>Small, clear tools:</b> calculators, trackers, simple websites, automations for one boring task. AI excels at these.</li><li><b>Learning while building:</b> Copilot and Claude explain every error in plain language — many beginners learn faster this way than from courses.</li><li><b>Whole-task help:</b> Claude Code can scaffold a project, add a feature across files and fix failing tests when you describe the goal clearly.</li></ul><h4>Where beginners get stuck</h4><ul><li><b>Vague briefs:</b> “make me a social app” produces a confident mess. One feature at a time, described precisely, works.</li><li><b>Skipping testing:</b> AI code that “looks right” and was never run is the number one failure pattern.</li><li><b>No version control:</b> without saved versions, one bad AI edit can destroy a working project.</li></ul><h4>The workflow that ships</h4><ol><li>Write down the smallest useful version — one screen, three features.</li><li>Ask AI to build feature one only. Run it. Fix what breaks, with AI's help.</li><li>Save a working version before every new feature.</li><li>Repeat. Ship the small thing; grow it later.</li></ol><div class=\"verdict\"><b>Honest answer:</b> Yes — a real, small, useful app. No — not a startup in a weekend. The beginners who succeed treat AI as a fast junior developer they supervise, not a vending machine.</div>"
+  },
+  {
+    "slug": "5-ai-side-hustles-that-actually-pay-and-3-that-don-t",
+    "title": "5 AI Side Hustles That Actually Pay — and 3 That Don't",
+    "description": "Real services with real buyers, plus the three overhyped ideas that waste beginners' time and money.",
+    "category": "Business",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Our money guide covered services businesses buy. This is the flip side: the side hustles real people run alongside a job — sorted into what earns and what mostly earns money for course sellers.</p><h4>That actually pay</h4><ol><li><b>Social content packs for local businesses</b> — monthly posts and captions; boring, repeatable, paid monthly.</li><li><b>Product description rewrites</b> — shops with dull catalogues pay per batch.</li><li><b>Thumbnail design for creators</b> — paid per thumbnail, judged purely on clicks.</li><li><b>Short video packages</b> — AI voice and visuals for businesses with no camera crew.</li><li><b>CV and LinkedIn polish</b> — job seekers pay for a sharper story, human-finished and honest.</li></ol><h4>That mostly don't</h4><ol><li><b>Selling raw AI art packs</b> — infinite supply, near-zero prices, no moat.</li><li><b>Prompt packs with no audience</b> — a product nobody can find is not a business.</li><li><b>Fully automated content farms</b> — search engines and platforms actively demote mass low-quality AI content, and advertisers know it.</li></ol><h4>The pattern</h4><p>Every winner sells a finished result to a specific buyer and includes human verification. Every loser sells the AI output itself. That single distinction predicts almost everything.</p><div class=\"verdict\"><b>Bottom line:</b> Pick one “actually pays” service, get one paying client, then optimise. Tools: one $20 chatbot plan plus free specialists — our stacks section has the exact combos.</div>"
+  },
+  {
+    "slug": "ai-for-exam-revision-a-7-day-plan-that-actually-works",
+    "title": "AI for Exam Revision: A 7-Day Plan That Actually Works",
+    "description": "One week, three free tools, zero ghostwriting. Turn panic revision into active recall that sticks.",
+    "category": "Students",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>One week before exams, AI can either become your quizmaster or your ghostwriter. Only one of those passes the exam. This plan uses three free tools for active recall — the technique with the strongest evidence behind it.</p><ol><li><b>Day 1 — Map:</b> Upload the syllabus and your notes to NotebookLM. Ask: “What are the ten topics this course examines, in order of how much material covers each?”</li><li><b>Day 2 — Gaps:</b> Ask NotebookLM to quiz you topic by topic. Write answers before revealing its responses. Mark every topic you fumbled.</li><li><b>Day 3 — Explain:</b> For each weak topic, ask ChatGPT or Claude: “Explain this like I am smart but missed the lecture — then give me the three mistakes students make.”</li><li><b>Day 4 — Sources:</b> Use Perplexity to check any facts, dates and formulas you will rely on. Cited, verifiable, done.</li><li><b>Day 5 — Audio:</b> Generate a NotebookLM audio overview of your weakest topics and listen twice, pausing to answer aloud.</li><li><b>Day 6 — Past papers:</b> Do a timed paper with no AI. Then review it with AI: “Where did my reasoning break, not just my answer?”</li><li><b>Day 7 — Light pass:</b> One-page summaries only. Sleep is also a revision strategy.</li></ol><div class=\"verdict\"><b>The rule:</b> AI asks, quizzes, explains and checks. You write, solve and remember. Follow that split and these tools raise grades instead of risking them.</div>"
+  },
+  {
+    "slug": "custom-gpts-build-your-own-chatgpt-assistant-in-15-minutes",
+    "title": "Custom GPTs: Build Your Own ChatGPT Assistant in 15 Minutes",
+    "description": "One repeat job, one tailored assistant. Instructions, knowledge files and testing — step by step.",
+    "category": "Tutorial",
+    "readMinutes": 7,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>If you give ChatGPT the same instructions every week — same tone, same format, same checklist — you are one short setup away from never typing them again. A custom GPT is ChatGPT pre-loaded with your instructions and files for one job.</p><h4>Build one, step by step</h4><ol><li><b>Pick one repeat job:</b> “turn my notes into a newsletter”, “draft replies to customer questions”, “plan a week of posts”. Narrow beats general.</li><li><b>Write the instructions as a job description:</b> who it is, what it produces, the format every time, and what it must never do.</li><li><b>Add knowledge files:</b> your style guide, price list, past examples — the things you normally paste in.</li><li><b>Test with real tasks:</b> run three genuine jobs and fix the instructions where the output drifts. This loop is the whole craft.</li><li><b>Save and reuse:</b> your assistant now starts every session already knowing the brief.</li></ol><h4>Worth building first</h4><ul><li>A caption writer trained on your best posts.</li><li>A meeting-notes formatter with your exact template.</li><li>A study explainer set to your course level and exam style.</li></ul><div class=\"verdict\"><b>Bottom line:</b> Fifteen minutes of setup per repeated task. If a job happens weekly, a custom GPT — or a Claude Project, its closest cousin — pays that time back within a month.</div>"
+  },
+  {
+    "slug": "gemini-in-gmail-and-docs-is-google-ai-pro-worth-it",
+    "title": "Gemini in Gmail and Docs: Is Google AI Pro Worth It?",
+    "description": "AI inside the apps you already use all day. Where it genuinely saves time — and where it still feels bolted on.",
+    "category": "Review",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Most AI subscriptions ask you to visit a new app. Google AI Pro upgrades the apps already open on your screen: Gemini inside Gmail, Docs and Drive. For people who live in Google Workspace, that difference matters more than any benchmark.</p><h4>Where it genuinely saves time</h4><ul><li><b>Gmail:</b> long threads summarised to the decision that matters, and first drafts of replies in your tone.</li><li><b>Docs:</b> “help me write” expands an outline into a draft you then edit — fastest on routine documents: proposals, reports, letters.</li><li><b>Drive:</b> ask questions across your files instead of hunting for the one PDF someone sent in March.</li><li><b>Plus the bundle:</b> the same plan includes higher Gemini limits and Veo video generation through Flow.</li></ul><h4>Where it still feels bolted on</h4><p>Draft quality varies by document type, suggestions can be generic on anything personal or nuanced, and — as our review notes — Google renames and re-bundles its plans often enough that checking what your tier includes is a habit, not a one-off.</p><div class=\"verdict\"><b>Our verdict:</b> At $19.99/month, AI Pro is the easiest subscription to justify if your workday already runs on Gmail and Docs. If you barely use Google apps, the same money buys more elsewhere.</div>"
+  },
+  {
+    "slug": "12-ai-image-prompt-formulas-you-can-copy-and-paste",
+    "title": "12 AI Image Prompt Formulas You Can Copy and Paste",
+    "description": "Product shots, portraits, thumbnails and more: fill-in-the-blank formulas that beat “make me a nice picture.”",
+    "category": "Tutorial",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Good image prompts are not magic words — they are short briefs. These twelve fill-in-the-blank formulas work in ChatGPT, Gemini, Canva AI and Midjourney. Swap the brackets, keep the structure.</p><ol><li><b>Product shot:</b> “[Product] on a clean [colour] background, soft studio light, slight shadow, space for text at top.”</li><li><b>Thumbnail hero:</b> “Close-up of [subject] with a surprised expression, bright colours, plain background, high contrast, no text.”</li><li><b>Portrait:</b> “[Person description] portrait, natural window light, shallow depth of field, calm expression.”</li><li><b>Food:</b> “Overhead shot of [dish] on a rustic table, steam rising, morning light, crumbs and herbs scattered naturally.”</li><li><b>Travel scene:</b> “[Place] at golden hour, few people, cinematic colours, wide composition.”</li><li><b>Infographic style:</b> “Flat illustration explaining [process], four simple steps, limited colour palette, lots of white space.”</li><li><b>Logo concept:</b> “Minimal logo mark for a [business type], simple geometric shape, two colours, no letters.”</li><li><b>Character consistency:</b> repeat the exact same description block — age, hair, clothing, style — in every prompt of the series.</li><li><b>Poster:</b> “Bold poster for [event], one strong central image, dramatic light, empty space at the bottom for details.”</li><li><b>Interior:</b> “[Room type] in [style] style, [two materials], plants and books, photographed for a design magazine.”</li><li><b>Before/after edit:</b> upload the photo and write “Keep everything the same, only change [one thing].”</li><li><b>Style transfer:</b> “Redraw this image as [watercolour / pixel art / clay model], keeping the same composition.”</li></ol><div class=\"verdict\"><b>Remember:</b> formula first, then iterate — change one element per generation and you will learn what each word actually does.</div>"
+  },
+  {
+    "slug": "the-faceless-channel-stack-from-script-to-upload-with-ai",
+    "title": "The Faceless Channel Stack: From Script to Upload With AI",
+    "description": "Script, visuals, voice, thumbnail, title: the full pipeline creators use — with the quality rules that keep channels alive.",
+    "category": "Creators",
+    "readMinutes": 9,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Faceless channels — videos with no presenter, built from scripts, generated visuals and AI voice — are where most of our reviewed tools meet in one pipeline. Here is the full workflow, with the quality rules that separate channels that grow from channels that get ignored.</p><h4>The pipeline</h4><ol><li><b>Topic and script:</b> research with Perplexity so facts are cited, draft the script in Claude or ChatGPT, then cut it ruthlessly — retention dies in slow openings.</li><li><b>Voice:</b> ElevenLabs narration, generated paragraph by paragraph, written for the ear.</li><li><b>Visuals:</b> Runway or Flow/Veo clips for scenes, image generators for stills — one clear action per clip, per our video guides.</li><li><b>Assembly:</b> edit, caption and pace in your normal editor. AI generates ingredients; the edit is still the cooking.</li><li><b>Thumbnail and title:</b> image generated for the click, title text added in Canva for crispness. Promise exactly what the video delivers.</li></ol><h4>Rules that keep channels alive</h4><ul><li><b>Quality over volume:</b> platforms reward watch time; five strong videos beat thirty rushed ones.</li><li><b>Disclose AI content</b> where the platform asks — the settings exist for a reason, and audiences forgive honesty, not deception.</li><li><b>One niche:</b> the algorithm and your viewers both need to know what the channel is.</li></ul><div class=\"verdict\"><b>Cost reality:</b> this is our Creator Stack — roughly a $20 chatbot plan plus voice and video tools. Start with free tiers on your first three videos; upgrade only when publishing rhythm proves the channel deserves it.</div>"
+  },
+  {
+    "slug": "ai-privacy-basics-what-happens-to-what-you-type",
+    "title": "AI Privacy Basics: What Happens to What You Type?",
+    "description": "Before you paste client data or personal documents into a chatbot, read this. Settings and habits that protect you.",
+    "category": "Guide",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>Every chatbot conversation feels private. Technically, it is data on someone else's servers — and the rules for what happens to it differ by tool and by plan. You do not need paranoia; you need five habits.</p><h4>The five habits</h4><ol><li><b>Never paste secrets:</b> passwords, banking details, ID numbers and private keys do not belong in any chatbot, ever — no matter the plan.</li><li><b>Strip client data:</b> anonymise names, emails and figures before pasting work documents, or use your provider's business tier with stronger data terms.</li><li><b>Find the training setting:</b> the major chatbots let consumers opt out of having chats used for training, and treat business plans differently from free ones. Set it deliberately instead of assuming.</li><li><b>Check before uploading faces and voices:</b> cloning and image tools carry consent questions — only use your own, or documented permission.</li><li><b>Read the retention line:</b> one minute in a tool's privacy settings tells you how long chats are kept and how to delete them.</li></ol><h4>A simple mental model</h4><p>Treat a free chatbot like a notebook you write in a shared office: fine for drafts and learning, wrong place for the company's crown jewels. Paid business tiers change the terms — read them once, properly, the day money or clients get involved.</p><div class=\"verdict\"><b>Bottom line:</b> AI tools are safe for the overwhelming majority of everyday work. The risks concentrate in exactly three things: secrets, client data and other people's likenesses. Guard those and carry on.</div>"
+  },
+  {
+    "slug": "deep-research-compared-chatgpt-gemini-and-perplexity",
+    "title": "Deep Research Compared: ChatGPT, Gemini and Perplexity",
+    "description": "All three now write long, sourced reports. Speed, depth and accuracy compared, with a verification habit to copy.",
+    "category": "Research",
+    "readMinutes": 8,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>All three big platforms now offer “deep research”: give a question, wait several minutes, receive a long report with sources. They are not interchangeable — each has a distinct strength, and a distinct failure mode.</p><h4>How they differ</h4><ul><li><b>ChatGPT deep research:</b> the most thorough multi-step reports, happy to spend minutes planning and reading before writing. Best for “write me the briefing” jobs.</li><li><b>Gemini deep research:</b> grounded in Google's index and smooth inside the Google ecosystem — strong when the answer lives across many ordinary web pages.</li><li><b>Perplexity:</b> the fastest of the three and the most citation-forward — answers read as sourced summaries first, reports second. Pro ($20/month) adds more Pro searches and a choice of top models.</li></ul><h4>The failure mode they share</h4><p>All three can cite a real page and still summarise it slightly wrong. The fix costs ten seconds: open the two or three sources your conclusion actually rests on. Fast research plus spot verification beats both blind trust and reading everything yourself.</p><h4>Choosing</h4><p>Speed and everyday questions: Perplexity. Long formal reports: ChatGPT. Life inside Google apps: Gemini. Notice none of this requires paying for two — pair one paid research tool with the others' free tiers.</p><div class=\"verdict\"><b>Our take:</b> Deep research is the most underused feature in AI right now. Run one real question through each free tier this week and compare — the difference is obvious within one report.</div>"
+  },
+  {
+    "slug": "ai-subscriptions-in-2026-stop-paying-for-tools-you-don-t-use",
+    "title": "AI Subscriptions in 2026: Stop Paying for Tools You Don't Use",
+    "description": "The 30-minute audit that cuts most people's AI bills in half — without losing a single tool they actually open.",
+    "category": "Buying Guide",
+    "readMinutes": 6,
+    "datePublished": "2026-11-12",
+    "dateUpdated": "2026-11-12",
+    "bodyHtml": "<p>The average AI enthusiast we hear from pays for three subscriptions and opens one. This 30-minute audit — done quarterly — typically cuts the bill in half without losing a single capability that matters.</p><h4>The audit</h4><ol><li><b>List every AI subscription</b> and its monthly cost, including the ones hiding in app-store billing.</li><li><b>Mark your real usage:</b> for each tool, did you open it in the last 30 days for work you valued? Be honest — “I might need it” is not usage.</li><li><b>Find the overlaps:</b> two chatbots, a chatbot plus a design tool that also generates images, a video plan plus a chatbot plan that includes video. Overlap is where the money leaks.</li><li><b>Downgrade, don't delete:</b> most tools keep a genuinely useful free tier. Drop to free and let the tool earn its upgrade back.</li><li><b>Apply the one-plan rule:</b> one paid chatbot at roughly $20, specialists free until a specialist is opened daily. Yearly billing where offered (Claude Pro drops to $17/month) is the last, easiest saving.</li></ol><h4>The test for every upgrade</h4><p>From our buying guide: upgrade when you hit free limits during paid work, need a paid-only feature, or the tool saves one billable hour a month. If none is true, the subscription is a donation.</p><div class=\"verdict\"><b>Bottom line:</b> Run this audit today and compare what remains with our three stacks by budget — $0, $20 and creator. Most readers land on the $20 stack and never look back.</div>"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "maker": "OpenAI",
+    "category": "Chatbot & Assistant",
+    "score": 4.8,
+    "summary": "Chat, write, code help, image generation, voice and deep research in one app, with custom GPTs for repeat tasks.",
+    "bestFor": "Best all-rounder",
+    "freePlan": "Yes, with limits",
+    "pricing": "Plus $20/mo",
+    "pricingUrl": "https://chatgpt.com/pricing/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Widest feature set of any chatbot"
+    ],
+    "cons": [
+      "Free tier limits bite at busy times"
+    ],
+    "bodyHtml": "<p>Chat, write, code help, image generation, voice and deep research in one app, with custom GPTs for repeat tasks.</p><p>Free to start. Plus $20/mo. Watch out: free tier limits bite at busy times</p>"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "maker": "Anthropic",
+    "category": "Chatbot & Assistant",
+    "score": 4.7,
+    "summary": "Natural, careful writing and reasoning over very long documents. Projects keep related chats and files together.",
+    "bestFor": "Best for writing & long documents",
+    "freePlan": "Yes, with limits",
+    "pricing": "Pro $20/mo",
+    "pricingUrl": "https://claude.ai/pricing",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Most human-sounding writing"
+    ],
+    "cons": [
+      "Rolling usage caps on paid plans"
+    ],
+    "bodyHtml": "<p>Natural, careful writing and reasoning over very long documents. Projects keep related chats and files together.</p><p>Free to start. Pro $20/mo. Watch out: rolling usage caps on paid plans</p>"
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "maker": "Google",
+    "category": "Chatbot & Assistant",
+    "score": 4.6,
+    "summary": "Google's assistant across Gmail, Docs and Drive, with strong multimodal skills and Veo video generation through Flow.",
+    "bestFor": "Best inside Google apps",
+    "freePlan": "Yes, with limits",
+    "pricing": "AI Pro $19.99/mo",
+    "pricingUrl": "https://gemini.google/mu/about/?hl=en-GB",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Deep Google Workspace integration"
+    ],
+    "cons": [
+      "Plan names and bundles change often"
+    ],
+    "bodyHtml": "<p>Google's assistant across Gmail, Docs and Drive, with strong multimodal skills and Veo video generation through Flow.</p><p>Free to start. AI Pro $19.99/mo. Watch out: plan names and bundles change often</p>"
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "maker": "Perplexity AI",
+    "category": "Research & Search",
+    "score": 4.6,
+    "summary": "Ask a question, get a clear answer with citations you can open and check. The fastest way to research a new topic.",
+    "bestFor": "Best for research with sources",
+    "freePlan": "Yes, with limits",
+    "pricing": "Pro $20/mo",
+    "pricingUrl": "https://www.perplexity.ai/en-GB/hub/pricing",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Answers cite their sources"
+    ],
+    "cons": [
+      "Citations still need spot-checking"
+    ],
+    "bodyHtml": "<p>Ask a question, get a clear answer with citations you can open and check. The fastest way to research a new topic.</p><p>Free to start. Pro $20/mo. Watch out: citations still need spot-checking</p>"
+  },
+  {
+    "slug": "notebooklm",
+    "name": "NotebookLM",
+    "maker": "Google",
+    "category": "Research & Study",
+    "score": 4.5,
+    "summary": "Upload PDFs, notes and lectures; ask questions answered only from your sources, and generate audio overviews to revise on the go.",
+    "bestFor": "Best for studying your own documents",
+    "freePlan": "Free",
+    "pricing": "Free",
+    "pricingUrl": "https://notebooklm.google.com/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Grounded in your own sources"
+    ],
+    "cons": [
+      "Only knows what you upload"
+    ],
+    "bodyHtml": "<p>Upload PDFs, notes and lectures; ask questions answered only from your sources, and generate audio overviews to revise on the go.</p><p>Free to start. Free. Watch out: only knows what you upload</p>"
+  },
+  {
+    "slug": "claude-code",
+    "name": "Claude Code",
+    "maker": "Anthropic",
+    "category": "Coding",
+    "score": 4.7,
+    "summary": "A terminal-based agent that reads your whole project, writes and edits code, runs tests and fixes errors. Included with Claude Pro and Max.",
+    "bestFor": "Best AI coding agent",
+    "freePlan": "No free plan",
+    "pricing": "In Claude Pro $20/mo",
+    "pricingUrl": "https://claude.ai/pricing",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Works across an entire codebase"
+    ],
+    "cons": [
+      "Needs a paid Claude plan"
+    ],
+    "bodyHtml": "<p>A terminal-based agent that reads your whole project, writes and edits code, runs tests and fixes errors. Included with Claude Pro and Max.</p><p>Paid-only tool. In Claude Pro $20/mo. Watch out: needs a paid Claude plan</p>"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "maker": "GitHub / Microsoft",
+    "category": "Coding",
+    "score": 4.5,
+    "summary": "AI pair programmer inside VS Code and other editors: line and function completions, chat and multi-file edits without leaving your IDE.",
+    "bestFor": "Best in-editor autocomplete",
+    "freePlan": "Yes, with limits",
+    "pricing": "Free tier + paid plans",
+    "pricingUrl": "https://github.com/features/copilot",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Feels native in your editor"
+    ],
+    "cons": [
+      "Best value for daily coders only"
+    ],
+    "bodyHtml": "<p>AI pair programmer inside VS Code and other editors: line and function completions, chat and multi-file edits without leaving your IDE.</p><p>Free to start. Free tier + paid plans. Watch out: best value for daily coders only</p>"
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "maker": "Midjourney",
+    "category": "Image Generation",
+    "score": 4.6,
+    "summary": "The benchmark for striking AI images — art, product shots and concept work with a distinctive, polished look.",
+    "bestFor": "Best image quality",
+    "freePlan": "No free plan",
+    "pricing": "Paid plans",
+    "pricingUrl": "https://www.midjourney.com/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Consistently beautiful results"
+    ],
+    "cons": [
+      "No free plan; learning curve"
+    ],
+    "bodyHtml": "<p>The benchmark for striking AI images — art, product shots and concept work with a distinctive, polished look.</p><p>Paid-only tool. Paid plans. Watch out: no free plan; learning curve</p>"
+  },
+  {
+    "slug": "canva-ai",
+    "name": "Canva AI",
+    "maker": "Canva",
+    "category": "Design & Image",
+    "score": 4.4,
+    "summary": "Magic Studio tools inside Canva: generate images, remove backgrounds, resize for every platform and keep your brand kit applied.",
+    "bestFor": "Best for social posts & thumbnails",
+    "freePlan": "Yes, with limits",
+    "pricing": "Free + Pro plans",
+    "pricingUrl": "https://www.canva.com/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Design and AI in one place"
+    ],
+    "cons": [
+      "AI credits are limited on Free"
+    ],
+    "bodyHtml": "<p>Magic Studio tools inside Canva: generate images, remove backgrounds, resize for every platform and keep your brand kit applied.</p><p>Free to start. Free + Pro plans. Watch out: aI credits are limited on Free</p>"
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "maker": "Runway",
+    "category": "Video Generation",
+    "score": 4.4,
+    "summary": "Text-to-video generation plus a full editor: motion control, green screen, inpainting and scene extension for creators.",
+    "bestFor": "Best AI video editor",
+    "freePlan": "Yes, with limits",
+    "pricing": "Free credits + paid plans",
+    "pricingUrl": "https://runwayml.com/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Pro controls, not just prompts"
+    ],
+    "cons": [
+      "Good clips still take several tries"
+    ],
+    "bodyHtml": "<p>Text-to-video generation plus a full editor: motion control, green screen, inpainting and scene extension for creators.</p><p>Free to start. Free credits + paid plans. Watch out: good clips still take several tries</p>"
+  },
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "maker": "Grammarly",
+    "category": "Writing & Editing",
+    "score": 4.3,
+    "summary": "Grammar, clarity and tone suggestions everywhere you type — email, docs and social — plus AI rewrites when you are stuck.",
+    "bestFor": "Best everyday writing polish",
+    "freePlan": "Yes, with limits",
+    "pricing": "Free + Pro plans",
+    "pricingUrl": "https://www.grammarly.com/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Works in every app you write in"
+    ],
+    "cons": [
+      "Style advice can flatten your voice"
+    ],
+    "bodyHtml": "<p>Grammar, clarity and tone suggestions everywhere you type — email, docs and social — plus AI rewrites when you are stuck.</p><p>Free to start. Free + Pro plans. Watch out: style advice can flatten your voice</p>"
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "maker": "ElevenLabs",
+    "category": "Voice & Audio",
+    "score": 4.5,
+    "summary": "Realistic text-to-speech in many languages, voice cloning and dubbing — the go-to for narration, ads and video voiceovers.",
+    "bestFor": "Best AI voiceovers",
+    "freePlan": "Yes, with limits",
+    "pricing": "Free tier + paid plans",
+    "pricingUrl": "https://elevenlabs.io/",
+    "checkedDate": "2026-11-12",
+    "datePublished": "2026-11-12",
+    "pros": [
+      "Most natural voices available"
+    ],
+    "cons": [
+      "Best voices need paid credits"
+    ],
+    "bodyHtml": "<p>Realistic text-to-speech in many languages, voice cloning and dubbing — the go-to for narration, ads and video voiceovers.</p><p>Free to start. Free tier + paid plans. Watch out: best voices need paid credits</p>"
+  }
+]

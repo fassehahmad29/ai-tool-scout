@@ -6,8 +6,9 @@
     <meta name="color-scheme" content="light dark" />
     <meta name="description" content="AI Tool Scout — honest AI tool reviews, comparisons and beginner guides. Find the right AI tool for writing, coding, images, video, research and more. Prices checked November 2026." />
     <meta name="monetag" content="1c8782a0fd87da81015fe586ffbd20bb" />
-    <link rel="icon" href="data:," />
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
     <title>AI Tool Scout — Find the Right AI Tool, Fast</title>
+    <!--SEO_HEAD-->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNJK51L7CM"></script>
     <script>
@@ -234,7 +235,7 @@
       .art h3{ margin:0; font-size:1.08rem; }
       .art p{ color:var(--ink-soft); font-size:.9rem; flex:1; }
 
-      .art .read-btn{ align-self:flex-start; border:0; background:transparent; color:var(--teal); font:inherit; font-weight:800; padding:8px 2px; cursor:pointer; }
+      .art .read-btn{ align-self:flex-start; border:0; background:transparent; color:var(--teal); font:inherit; font-weight:800; padding:8px 2px; cursor:pointer; text-decoration:none; }
       .art .read-btn:hover{ text-decoration:underline; }
 
       /* ---------- article reader ---------- */
@@ -896,6 +897,10 @@
         <a href="#calculator">Cost Calculator</a>
         <a href="#articles">Articles</a>
         <a href="#faq">FAQ</a>
+        <a href="/about/">About</a>
+        <a href="/privacy/">Privacy Policy</a>
+        <a href="/terms/">Terms of Service</a>
+        <a href="/contact/">Contact</a>
       </nav>
       <a class="side-cta" href="#free">Try free tools →</a>
     </aside>
@@ -1200,6 +1205,7 @@
               <div class="row"><dt>Watch out</dt><dd>Quality varies by model picker; free tier has tighter limits</dd></div>
               <div class="row"><dt>Official pricing</dt><dd><a href="https://chatgpt.com/pricing/" target="_blank" rel="noopener">chatgpt.com/pricing</a></dd></div>
             </dl>
+            <p><a class="visit" href="/reviews/chatgpt/">Read full review →</a></p>
           </article>
           <article class="vs">
             <span class="vs-tag">Best for writing &amp; code</span>
@@ -1211,6 +1217,7 @@
               <div class="row"><dt>Watch out</dt><dd>Usage caps on rolling windows can pause heavy sessions</dd></div>
               <div class="row"><dt>Official pricing</dt><dd><a href="https://claude.ai/pricing" target="_blank" rel="noopener">claude.ai/pricing</a></dd></div>
             </dl>
+            <p><a class="visit" href="/reviews/claude/">Read full review →</a></p>
           </article>
           <article class="vs">
             <span class="vs-tag">Best with Google apps</span>
@@ -1222,6 +1229,7 @@
               <div class="row"><dt>Watch out</dt><dd>Plan names and bundles change often — check what is included</dd></div>
               <div class="row"><dt>Official plans</dt><dd><a href="https://gemini.google/mu/about/?hl=en-GB" target="_blank" rel="noopener">gemini.google</a></dd></div>
             </dl>
+            <p><a class="visit" href="/reviews/gemini/">Read full review →</a></p>
           </article>
         </div>
       </section>
@@ -1399,11 +1407,11 @@
         <div class="sec-head">
           <div>
             <h2 id="articles-h">Latest articles</h2>
-            <p class="sec-sub">All 31 articles from our launch series — comparisons, tutorials and honest buying advice. Tap any article to read it in full, right here.</p>
+            <p class="sec-sub">All 31 articles from our launch series — comparisons, tutorials and honest buying advice. Tap any article to read it in full.</p>
           </div>
         </div>
         <div class="art-grid">
-          <article class="art"><div class="a-meta"><span class="a-cat">Review</span><span>7 min read</span></div><h3>Muse AI Explained: Meta's Personal Agent That Does the Work</h3><p>Meta's personal agent doesn't just chat — it sends emails, books tables, calls businesses and finishes multi-step tasks. What it costs, where it works, and the catch.</p></article>
+          <article class="art"><div class="a-meta"><span class="a-cat">Review</span><span>7 min read</span></div><h3>Muse AI Explained: Meta's Personal Agent That Does the Work</h3><p>Meta's personal agent doesn't just chat — it sends emails, books tables, calls businesses and finishes multi-step tasks. What it costs, where it works.</p></article>
           <article class="art"><div class="a-meta"><span class="a-cat">Comparison</span><span>9 min read</span></div><h3>ChatGPT vs Claude vs Gemini: Which Should You Pay For in 2026?</h3><p>Same prompts, same documents, same budget. Where each $20 plan wins — and where the free tiers are enough.</p></article>
           <article class="art"><div class="a-meta"><span class="a-cat">Roundup</span><span>7 min read</span></div><h3>10 Free AI Tools That Are Actually Worth Your Time</h3><p>No trials that expire in a day, no credit card traps. Ten free tools worth keeping installed.</p></article>
           <article class="art"><div class="a-meta"><span class="a-cat">Tutorial</span><span>6 min read</span></div><h3>How to Write Prompts That Get Better Answers</h3><p>Role, audience, format, example: the four-part prompt formula, with before-and-after examples.</p></article>
@@ -1537,6 +1545,7 @@
       </section>
     </main>
 
+    <!--SEO_LINKS-->
     <footer>
       <div class="wrap">
         <div class="foot-grid">
@@ -1568,6 +1577,14 @@
             <a href="#articles">Latest articles</a>
             <a href="#finder">Tool Finder quiz</a>
             <a href="#faq">FAQ</a>
+          </div>
+          <div>
+            <h3>Trust</h3>
+            <a href="/about/">About us</a>
+            <a href="/privacy/">Privacy Policy</a>
+            <a href="/terms/">Terms of Service</a>
+            <a href="/cookie-policy/">Cookie Policy</a>
+            <a href="/contact/">Contact</a>
           </div>
         </div>
         <div class="foot-base">
@@ -1625,6 +1642,14 @@
           price:"Free tier + paid plans", free:true, pro:"Most natural voices available", con:"Best voices need paid credits", freeUrl:"https://elevenlabs.io/" }
       ];
 
+      /* Page slugs, in the same order as TOOLS / ARTICLES above and as
+         data/tools.json and data/articles.json. Cards link to the real
+         review and article pages instead of opening the in-page reader. */
+      var TOOL_SLUGS = ["chatgpt", "claude", "gemini", "perplexity", "notebooklm", "claude-code", "github-copilot", "midjourney", "canva-ai", "runway", "grammarly", "elevenlabs"];
+      var ARTICLE_SLUGS = ["muse-ai-explained-meta-s-personal-agent-that-does-the-work", "chatgpt-vs-claude-vs-gemini-which-should-you-pay-for-in-2026", "10-free-ai-tools-that-are-actually-worth-your-time", "how-to-write-prompts-that-get-better-answers", "best-ai-tools-for-students-study-smarter-with-notebooklm", "ai-video-in-2026-sora-veo-and-runway-compared", "claude-code-vs-github-copilot-the-honest-coding-guide", "how-small-businesses-can-make-money-with-ai-tools", "best-ai-image-generators-for-thumbnails-and-social-posts", "perplexity-vs-google-search-when-to-use-each", "github-copilot-for-beginners-your-first-week-with-an-ai-pair-programmer", "how-to-make-ai-videos-with-google-flow-and-veo", "midjourney-for-beginners-your-first-10-images-done-right", "elevenlabs-ai-voiceovers-that-actually-sound-human", "grammarly-vs-chatgpt-which-one-fixes-your-writing-better", "ai-tools-for-freelancers-the-stack-that-wins-clients", "claude-projects-explained-organise-long-work-like-a-pro", "notebooklm-audio-overviews-turn-any-document-into-a-podcast", "sora-explained-what-openai-s-video-generator-can-and-can-t-do", "canva-ai-and-magic-studio-the-tools-inside-canva-worth-using", "best-ai-tools-for-meetings-notes-summaries-and-follow-ups", "can-ai-build-a-real-app-an-honest-beginner-test", "5-ai-side-hustles-that-actually-pay-and-3-that-don-t", "ai-for-exam-revision-a-7-day-plan-that-actually-works", "custom-gpts-build-your-own-chatgpt-assistant-in-15-minutes", "gemini-in-gmail-and-docs-is-google-ai-pro-worth-it", "12-ai-image-prompt-formulas-you-can-copy-and-paste", "the-faceless-channel-stack-from-script-to-upload-with-ai", "ai-privacy-basics-what-happens-to-what-you-type", "deep-research-compared-chatgpt-gemini-and-perplexity", "ai-subscriptions-in-2026-stop-paying-for-tools-you-don-t-use"];
+      var TOOL_SLUG_BY_NAME = {"ChatGPT": "chatgpt", "Claude": "claude", "Gemini": "gemini", "Perplexity": "perplexity", "NotebookLM": "notebooklm", "Claude Code": "claude-code", "GitHub Copilot": "github-copilot", "Midjourney": "midjourney", "Canva AI": "canva-ai", "Runway": "runway", "Grammarly": "grammarly", "ElevenLabs": "elevenlabs"};
+      var VERSUS_PAGES = {"chatgpt|claude": 1, "chatgpt|gemini": 1, "claude|gemini": 1, "claude-code|github-copilot": 1, "chatgpt|perplexity": 1, "gemini|perplexity": 1, "midjourney|canva-ai": 1, "chatgpt|grammarly": 1, "chatgpt|midjourney": 1, "claude|perplexity": 1};
+
       var grid = document.getElementById('toolGrid');
       var emptyNote = document.getElementById('emptyNote');
       var activeCat = 'all';
@@ -1639,7 +1664,7 @@
       function renderTools(){
         var html = '';
         var shown = 0;
-        TOOLS.forEach(function(t){
+        TOOLS.forEach(function(t, ti){
           var hay = (t.name + ' ' + t.maker + ' ' + t.catLabel + ' ' + t.best + ' ' + t.desc + ' ' + (t.free ? 'free' : 'paid')).toLowerCase();
           if (activeCat !== 'all' && t.cat !== activeCat) return;
           if (query && hay.indexOf(query) === -1) return;
@@ -1656,6 +1681,7 @@
             + '<span class="fact">' + t.price + '</span></div>'
             + '<ul class="pros"><li>' + t.pro + '</li><li class="con">' + t.con + '</li></ul>'
             + '<div class="tool-actions">'
+            + '<a class="visit" href="/reviews/' + TOOL_SLUGS[ti] + '/">Read full review <span aria-hidden="true">→</span></a>'
             + (t.freeUrl ? '<a class="try-free-btn" href="' + t.freeUrl + '" target="_blank" rel="noopener">Try ' + t.name + ' free <span aria-hidden="true">→</span></a>' : '')
             + (t.url ? '<a class="visit" href="' + t.url + '" target="_blank" rel="noopener">' + t.urlLabel + ' <span aria-hidden="true">→</span></a>' : '')
             + '</div>'
@@ -1950,29 +1976,19 @@
         + '<div class="verdict"><b>Bottom line:</b> Run this audit today and compare what remains with our three stacks by budget — $0, $20 and creator. Most readers land on the $20 stack and never look back.</div>' }
       ];
 
-      /* Reader wiring: add a Read button to each article card, in order */
-      var reader = document.getElementById('reader');
+      /* Card links: each article card links to its own page
+         (/articles/<slug>/) instead of opening the in-page reader.
+         The reader panel below stays in the markup, hidden and unused,
+         so nothing else in the page breaks. */
       var cards = document.querySelectorAll('#articles .art');
       cards.forEach(function(card, i){
-        if (!ARTICLES[i]) return;
-        var btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'read-btn';
-        btn.textContent = 'Read article →';
-        btn.setAttribute('aria-label', 'Read article: ' + ARTICLES[i].title);
-        btn.addEventListener('click', function(){
-          document.getElementById('readerCat').textContent = ARTICLES[i].cat;
-          document.getElementById('readerMeta').textContent = ARTICLES[i].meta;
-          document.getElementById('readerTitle').textContent = ARTICLES[i].title;
-          document.getElementById('readerBody').innerHTML = ARTICLES[i].body;
-          reader.hidden = false;
-          reader.scrollIntoView({ behavior:'smooth', block:'start' });
-        });
-        card.appendChild(btn);
-      });
-      document.getElementById('readerBack').addEventListener('click', function(){
-        reader.hidden = true;
-        document.getElementById('articles').scrollIntoView({ behavior:'smooth' });
+        if (!ARTICLES[i] || !ARTICLE_SLUGS[i]) return;
+        var link = document.createElement('a');
+        link.className = 'read-btn';
+        link.href = '/articles/' + ARTICLE_SLUGS[i] + '/';
+        link.textContent = 'Read article →';
+        link.setAttribute('aria-label', 'Read article: ' + ARTICLES[i].title);
+        card.appendChild(link);
       });
     </script>
     <script>
@@ -2060,6 +2076,13 @@
           + vRow('Strength', a.pro, b.pro)
           + vRow('Watch out', a.con, b.con)
           + '<div class="versus-verdict"><b>Verdict:</b> ' + winner.name + ' scores higher overall (' + winner.score.toFixed(1) + ' vs ' + loser.score.toFixed(1) + '). Choose <b>' + winner.name + '</b> for ' + winner.best.toLowerCase() + '; choose <b>' + loser.name + '</b> if ' + loser.best.toLowerCase() + ' matters more to you. Both scores come from the full reviews in the Tool Reviews section above.</div>';
+        var pairKey = TOOL_SLUG_BY_NAME[a.name] + '|' + TOOL_SLUG_BY_NAME[b.name];
+        var revKey = TOOL_SLUG_BY_NAME[b.name] + '|' + TOOL_SLUG_BY_NAME[a.name];
+        var vsKey = VERSUS_PAGES[pairKey] ? pairKey : (VERSUS_PAGES[revKey] ? revKey : null);
+        if (vsKey) {
+          var vsParts = vsKey.split('|');
+          html += '<p style="margin-top:16px"><a class="visit" href="/versus/' + vsParts[0] + '-vs-' + vsParts[1] + '/">Read the full comparison →</a></p>';
+        }
         vsResult.innerHTML = html;
       }
       vsA.addEventListener('change', renderVersus);
@@ -2504,7 +2527,7 @@
     <script>
       /* ---------------- Free tools grid + share links ---------------- */
       (function(){
-        var SITE_URL = 'https://ai-tool-scout.netlify.app/';
+        var SITE_URL = 'https://ai-tool-scout-azure.vercel.app/';
         var SHARE_TEXT = 'AI Tool Scout — honest AI tool reviews, comparisons and 30 free copy-paste prompts. Find the right AI tool, fast:';
 
         /* Free tools grid: every reviewed tool with a real free plan */
