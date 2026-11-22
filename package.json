@@ -1,0 +1,7 @@
+{
+  "name": "ai-tool-scout",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "build": "node build.js", "build:drafts": "BUILD_DRAFTS=1 node build.js" },
+  "engines": { "node": ">=18" }
+}

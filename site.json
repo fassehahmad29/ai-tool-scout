@@ -1,0 +1,15 @@
+{
+  "name": "AI Tool Scout",
+  "url": "https://ai-tool-scout-azure.vercel.app",
+  "homeTitle": "AI Tool Scout — Find the Right AI Tool, Fast",
+  "description": "Honest AI tool reviews, comparisons and beginner guides. Find the right AI tool for writing, coding, images, video and research. Prices checked November 2026.",
+  "defaultImage": "/assets/og-default.png",
+  "defaultImageWidth": 1200,
+  "defaultImageHeight": 630,
+  "logo": "/assets/favicon.svg",
+  "homeLastmod": "2026-11-21",
+  "author": {
+    "type": "Organization",
+    "name": "AI Tool Scout Team"
+  }
+}
