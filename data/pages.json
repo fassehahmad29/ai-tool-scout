@@ -1,0 +1,50 @@
+[
+  {
+    "bodyHtml": "<h2>Who we are</h2><p>AI Tool Scout publishes honest AI tool reviews, comparisons and beginner guides for readers worldwide \u2014 US, UK, Europe, Canada, Australia and everywhere else AI is used. Independent reviews \u2014 not affiliated with OpenAI, Anthropic, Google or any tool listed.</p><h2>How we review</h2><p>The same four steps for every tool, so scores mean the same thing across the site.</p><ol><li><b>Real tasks:</b> each tool does the jobs it advertises \u2014 real documents, real prompts, real deadlines.</li><li><b>Price check:</b> prices and free-plan limits are verified on the official pricing page, with the date shown.</li><li><b>Pros &amp; cons:</b> every review lists a genuine drawback. A tool with no cons listed has not been reviewed.</li><li><b>No paid rankings:</b> scores are editorial. Companies cannot pay to move up a list.</li></ol><h2>How this site earns</h2><p>AI Tool Scout is reader-supported. Some outbound links are affiliate links \u2014 if you subscribe through one, we may earn a commission at no extra cost to you. That income never changes a score or a ranking, and tools are reviewed the same way whether or not they have an affiliate programme. Prices shown were checked on 12 November 2026 and can change; confirm on the official site before paying.</p>",
+    "description": "Who writes AI Tool Scout, how we review tools, and how this site earns money.",
+    "footer": true,
+    "footerLabel": "About",
+    "slug": "about",
+    "title": "About AI Tool Scout"
+  },
+  {
+    "slug": "privacy",
+    "title": "Privacy Policy",
+    "description": "How AI Tool Scout handles your data: what analytics and advertising partners collect, what we never collect, and your choices.",
+    "footer": true,
+    "footerLabel": "Privacy",
+    "datePublished": "2026-11-22",
+    "dateUpdated": "2026-11-22",
+    "bodyHtml": "<p><i>Last updated: 22 November 2026.</i></p><h2>What this site is</h2><p>AI Tool Scout publishes honest AI tool reviews, comparisons and beginner guides. The site is free to read. You do not need an account to use it, and there is no newsletter sign-up, so we do not collect your name or email address.</p><h2>What we collect</h2><p>We use Google Analytics (GA4) to understand how the site is used \u2014 for example, which reviews are read most and which countries readers visit from. Analytics data is aggregated and anonymised; it does not identify you personally.</p><p>We do not run our own tracking, and we do not sell or share personal data with anyone.</p><h2>Advertising</h2><p>Advertising on this site is provided by Monetag. When ads are shown, Monetag and its advertising partners may set cookies or use similar technology to show ads and measure how they perform. You can control advertising cookies through your browser settings \u2014 see our <a href=\"/cookie-policy/\">Cookie Policy</a>.</p><h2>Affiliate links</h2><p>Some outbound links are affiliate links. If you subscribe through one, we may earn a commission at no extra cost to you. Affiliate partners may record that you arrived from our site; that is between you and the provider, and it never changes a score or a ranking on this site.</p><h2>Links to other sites</h2><p>Our reviews link to the official sites of the tools we cover. Those sites have their own privacy policies, which we do not control. Check the official pricing page before paying for anything \u2014 prices change, and the price shown here was checked on 12 November 2026.</p><h2>Children</h2><p>This site is written for adults choosing AI tools for work or study. It is not directed at children, and we do not knowingly collect data from anyone under 16.</p><h2>Changes to this policy</h2><p>If how we handle data changes, this page will be updated and the date above will change. Questions about this policy can be sent through our <a href=\"/contact/\">Contact page</a>.</p>"
+  },
+  {
+    "slug": "terms",
+    "title": "Terms of Service",
+    "description": "The terms for using AI Tool Scout: reviews are opinions, prices change, and how affiliate links and external sites work.",
+    "footer": true,
+    "footerLabel": "Terms",
+    "datePublished": "2026-11-22",
+    "dateUpdated": "2026-11-22",
+    "bodyHtml": "<p><i>Last updated: 22 November 2026.</i></p><h2>Using this site</h2><p>AI Tool Scout is a free information site. By using it, you agree to these terms. If you do not agree, please do not use the site.</p><h2>Reviews are opinions</h2><p>Our reviews, scores and comparisons are editorial opinions based on research and hands-on use of each tool's core features. They are guidance, not guarantees. A tool that suits one reader may not suit another \u2014 check the free plan or trial before paying.</p><h2>Prices and availability change</h2><p>Prices, free-plan limits and features were checked on the official pricing pages on 12 November 2026 (the Muse AI article on 17 November 2026). AI providers change prices and plans often, and prices differ by country. Always confirm the current price on the official site before subscribing. We are not responsible for a price or feature that has changed since our check.</p><h2>Affiliate disclosure</h2><p>Some links on this site are affiliate links. If you subscribe through one, we may earn a commission at no extra cost to you. That income never changes a score or a ranking \u2014 companies cannot pay to move up a list, and tools are reviewed the same way whether or not they have an affiliate programme. Where a link is an affiliate link, it is marked and carries a sponsored, no-follow tag.</p><h2>External sites</h2><p>Links to tool providers and other sites are provided for convenience. We do not control those sites and are not responsible for their content, pricing, privacy practices or availability.</p><h2>Our content</h2><p>Text, reviews and guides on this site belong to AI Tool Scout. You may share links to any page and quote short passages with credit. Do not copy whole articles or reviews, and do not present our content as your own.</p><h2>No warranties</h2><p>The site is provided \"as is\", without warranties of any kind. We do our best to keep information accurate and up to date, but we do not guarantee that every detail is correct or complete, and we are not liable for decisions you make based on it.</p><h2>Changes to these terms</h2><p>We may update these terms when the site changes. The date above shows the latest version. Questions can be sent through our <a href=\"/contact/\">Contact page</a>.</p>"
+  },
+  {
+    "slug": "contact",
+    "title": "Contact AI Tool Scout",
+    "description": "How to reach AI Tool Scout: report a wrong price, suggest a tool to review, or point out a mistake in an article.",
+    "footer": true,
+    "footerLabel": "Contact",
+    "datePublished": "2026-11-22",
+    "dateUpdated": "2026-11-22",
+    "bodyHtml": "<h2>How to reach us</h2><p>The fastest way to reach the AI Tool Scout Team is through our Facebook page, <a href=\"https://www.facebook.com/61587330582070/\" target=\"_blank\" rel=\"noopener\">Infinite AI on Facebook</a>. Send us a message there \u2014 that page is where new reviews and articles are announced too.</p><h2>What to send us</h2><ul><li><b>A price or feature that changed:</b> tell us the tool and what is different now, with a link to the official pricing page if you have one. Prices are checked regularly, and corrections are welcome.</li><li><b>A mistake in an article:</b> tell us the article and the line that is wrong. We fix genuine errors and update the date on the page.</li><li><b>A tool to review:</b> suggest an AI tool you would like us to cover, and what you use it for.</li><li><b>Anything else:</b> questions about how we review, or about a guide that did not work for you.</li></ul><h2>What we are</h2><p>AI Tool Scout is an independent review site run by the <a href=\"/about/\">AI Tool Scout Team</a>. We are not affiliated with OpenAI, Anthropic, Google or any tool listed on the site, and we cannot help with accounts, billing or support for those tools \u2014 for that, please contact the tool's own support team.</p><p>We read every message. Replies come from the team, not an automated system.</p>"
+  },
+  {
+    "slug": "cookie-policy",
+    "title": "Cookie Policy",
+    "description": "Which cookies AI Tool Scout uses: analytics from Google, advertising from Monetag, and how to turn cookies off.",
+    "footer": true,
+    "footerLabel": "Cookies",
+    "datePublished": "2026-11-22",
+    "dateUpdated": "2026-11-22",
+    "bodyHtml": "<p><i>Last updated: 22 November 2026.</i></p><h2>What cookies are</h2><p>Cookies are small text files stored in your browser when you visit a site. This site uses only a small number of them, and none of them store your name, email address or payment details.</p><h2>Cookies this site uses</h2><ul><li><b>Analytics cookies (Google Analytics, GA4):</b> these count visits and show which pages are read most, so we know what to write next. The data is aggregated and anonymised.</li><li><b>Advertising cookies (Monetag):</b> when ads are shown, Monetag and its advertising partners may set cookies to show ads and measure how they perform.</li></ul><p>We do not set login cookies, because the site has no accounts. We do not set newsletter cookies, because there is no newsletter sign-up.</p><h2>How to control cookies</h2><p>You can block or delete cookies in your browser settings at any time. Every modern browser lets you clear cookies for one site or for all sites, and to block third-party cookies entirely. Blocking cookies will not stop this site from working \u2014 the reviews, guides and tools on the page will still load.</p><p>To learn how, search your browser's help pages for \"cookies\" \u2014 in Chrome, Firefox, Safari and Edge the setting is under Privacy in Settings.</p><h2>Questions</h2><p>Questions about cookies or privacy can be sent through our <a href=\"/contact/\">Contact page</a>. See also our <a href=\"/privacy/\">Privacy Policy</a>.</p>"
+  }
+]
